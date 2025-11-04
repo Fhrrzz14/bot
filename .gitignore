@@ -1,14 +1,4 @@
-# Ignore dependencies
 node_modules/
-
-# Ignore environment variables
 .env
-
-# Optional: log files
-npm-debug.log*
-yarn-debug.log*
-yarn-error.log*
-
-# Optional: OS files
-.DS_Store
-Thumbs.db
+.wwebjs_auth/
+.wwebjs_cache/
