@@ -1,13 +1,11 @@
-2025/11/04-23:18:40.464 4d84 Reusing MANIFEST C:\Users\ACER\Ai-wa\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
-2025/11/04-23:18:40.465 4d84 Recovering log #84
-2025/11/04-23:18:40.504 4d84 Reusing old log C:\Users\ACER\Ai-wa\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/000084.log 
-2025/11/04-23:18:43.730 4ef4 Manual compaction at level-0 from '\x00+\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00,\x00\x00\x00' @ 0 : 0; will stop at (end)
-2025/11/04-23:24:10.400 4e78 Level-0 table #89: started
-2025/11/04-23:24:10.482 4e78 Level-0 table #89: 1416190 bytes OK
-2025/11/04-23:24:10.487 4e78 Delete type=0 #84
-2025/11/04-23:24:11.117 1b44 Compacting 1@1 + 1@2 files
-2025/11/04-23:24:11.400 1b44 Generated table #90@1: 47161 keys, 1862557 bytes
-2025/11/04-23:24:11.400 1b44 Compacted 1@1 + 1@2 files => 1862557 bytes
-2025/11/04-23:24:11.400 1b44 compacted to: files[ 0 0 1 0 0 0 0 ]
-2025/11/04-23:24:11.402 1b44 Delete type=2 #86
-2025/11/04-23:24:11.402 1b44 Delete type=2 #89
+2025/11/04-23:28:19.557 1dfc Reusing MANIFEST C:\Users\ACER\Ai-wa\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/11/04-23:28:19.572 1dfc Recovering log #88
+2025/11/04-23:28:19.634 1dfc Reusing old log C:\Users\ACER\Ai-wa\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/000088.log 
+2025/11/04-23:28:22.064 1dfc Level-0 table #93: started
+2025/11/04-23:28:22.091 1dfc Level-0 table #93: 518517 bytes OK
+2025/11/04-23:28:22.092 1dfc Delete type=0 #88
+2025/11/04-23:28:22.093 1dfc Manual compaction at level-0 from '\x00,\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00-\x00\x00\x00' @ 0 : 0; will stop at (end)
+2025/11/04-23:28:24.463 1048 Compacting 1@1 + 1@2 files
+2025/11/04-23:28:24.572 1048 Generated table #94@1: 49396 keys, 1949560 bytes
+2025/11/04-23:28:24.572 1048 Compacted 1@1 + 1@2 files => 1949560 bytes
+2025/11/04-23:28:24.572 1048 compacted to: files[ 0 0 1 0 0 0 0 ]
