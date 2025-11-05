@@ -1,4 +1,28 @@
+# Dependencies
 node_modules/
-.env
-.wwebjs_auth/
+
+# WhatsApp Web session cache
 .wwebjs_cache/
+.wwebjs_auth/
+
+# Build output (kalau ada)
+dist/
+build/
+
+# Environment variables
+.env
+
+# Log files
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Backup / Git folders
+Ai-wa-backup.git/
+*.bak
+*.tmp
+
+# OS / Editor junk
+.DS_Store
+Thumbs.db
+.vscode/
