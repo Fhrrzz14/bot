@@ -1,28 +1,24 @@
-# Dependencies
+# Node dependencies
 node_modules/
 
-# WhatsApp Web session cache
-.wwebjs_cache/
+# Puppeteer local Chromium binaries
+**/.local-chromium/
+
+# WhatsApp auth/cache
 .wwebjs_auth/
+.wwebjs_cache/
 
-# Build output (kalau ada)
-dist/
-build/
-
-# Environment variables
+# Env files
 .env
 
-# Log files
+# Backup or temporary git folders
+Ai-wa-backup.git/
+
+# Logs
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 
-# Backup / Git folders
-Ai-wa-backup.git/
-*.bak
-*.tmp
-
-# OS / Editor junk
+# System files
 .DS_Store
 Thumbs.db
-.vscode/
