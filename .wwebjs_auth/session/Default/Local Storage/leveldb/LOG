@@ -1,0 +1,6 @@
+2025/11/15-20:20:03.789 f18 Reusing MANIFEST C:\Users\ACER\Ai-wa\.wwebjs_auth\session\Default\Local Storage\leveldb/MANIFEST-000001
+2025/11/15-20:20:03.825 f18 Recovering log #30
+2025/11/15-20:20:03.827 f18 Reusing old log C:\Users\ACER\Ai-wa\.wwebjs_auth\session\Default\Local Storage\leveldb/000030.log 
+2025/11/15-20:22:09.498 f18 Level-0 table #34: started
+2025/11/15-20:22:09.503 f18 Level-0 table #34: 18663 bytes OK
+2025/11/15-20:22:09.504 f18 Delete type=0 #30

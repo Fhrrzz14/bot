@@ -20,3 +20,4 @@ Subsequent non-fatal errors won't be logged; see https://fburl.com/debugjs. [obj
 [1115/202519.502:INFO:CONSOLE(1193)] "Failed to parse video contentType: video/mp4; codecs=avc1.42000a", source: https://static.whatsapp.net/rsrc.php/v4igWf4/yb/l/id_ID-j/sYG4vmLZ10F.js (1193)
 [1115/202519.502:INFO:CONSOLE(1193)] "Failed to parse video contentType: video/mp4; codecs=hev1.1.6.L93.B0", source: https://static.whatsapp.net/rsrc.php/v4igWf4/yb/l/id_ID-j/sYG4vmLZ10F.js (1193)
 [1115/202520.131:INFO:CONSOLE(113)] "Event handler of 'x-storagemutated-1' event must be added on the initial evaluation of worker script.", source: https://static.whatsapp.net/rsrc.php/v4/yB/r/0NzQ4cTSVta.js (113)
+[1115/205152.140:INFO:CONSOLE(113)] "Event handler of 'x-storagemutated-1' event must be added on the initial evaluation of worker script.", source: https://static.whatsapp.net/rsrc.php/v4/yB/r/0NzQ4cTSVta.js (113)
